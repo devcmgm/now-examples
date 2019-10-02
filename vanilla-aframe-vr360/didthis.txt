@@ -1,0 +1,500 @@
+   59  npx waffle
+   60  moca
+   61  mocha
+   62  npm install truffle
+   63  mocha
+   64  npm mocha
+   65  npm install mocha
+   66  npm install chai
+   67  mocha
+   68  npm install -g truffle
+   69  npm install -g mocha
+   70  mocha
+   71  npm test
+   72  PS1=client:
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd client
+   77  ls
+   78  cd ..
+   79  ls
+   80  pwd
+   81  cd client
+   82  npm install drizzle
+   83  npm start
+   84  ls
+   85  truffle compiles
+   86  truffle compile
+   87  truffle migrate
+   88  truffle serve // server at localhost:8080
+   89  truffle test
+   90  truffle serve // server at localhost:8080
+   91  ls
+   92  pwd
+   93  ls
+   94  npm install -g create-react-app
+   95  ls
+   96  mkdir drizzle-react-tutorial
+   97  cd drizzle-react-tutorial 
+   98  truffle init
+   99  ls
+  100  PS1=tr1:
+  101  pwd
+  102  ls
+  103  truffle develop
+  104  cd ..
+  105  ls
+  106  pwd
+  107  ls
+  108  npx create-react-app client
+  109  cd clinet
+  110  cd client
+  111  ls
+  112  cd -
+  113  ls
+  114  cd dr*
+  115  ls
+  116  truffle develop
+  117  truffle develop
+  118  truffle develop
+  119  sudo vi /etc/hosts
+  120  ls
+  121  cd client
+  122  ls
+  123  npm start
+  124  cd ..
+  125  ls
+  126  pwd
+  127  cd ,,
+  128  cd ..
+  129  ls
+  130  mkdir metacoin
+  131  cd metacoin
+  132  ls
+  133  pwd
+  134  ls
+  135  PS1=metacoin:
+  136  clear
+  137  truffle init
+  138  truffle compile
+  139  truffle migrate
+  140  truffle test test
+  141  truffle test test/metacoin.js
+  142  PS!=client:
+  143  PS1=client:
+  144  ls
+  145  dir
+  146  cd desktop
+  147  cd blc
+  148  ls
+  149  cd dappdemo
+  150  ls
+  151  cd tu*
+  152  ls
+  153  cd dapp1
+  154  ls
+  155  npx create-react-app client
+  156  pwd
+  157  ls
+  158  cd client 
+  159  npm starty
+  160  npm start
+  161  npm install drizzle
+  162  pwd
+  163  cd desktop
+  164  lks
+  165  ls
+  166  cd blc
+  167  ls
+  168  cd dappdemo
+  169  ls
+  170  cd dr*
+  171  ls
+  172  mocha
+  173  cd ..
+  174  mocha
+  175  mocha deploy
+  176  truffle develop
+  177  pwd
+  178  ls
+  179  cd drizzle-react-tutorial 
+  180  ls
+  181  truffle develop
+  182  mocha
+  183  truffle develop
+  184  pwd
+  185  ls
+  186  clear
+  187  PS1=t1:
+  188  clear
+  189  truffle develop
+  190  truffle init
+  191  truffle compile
+  192  truffle migrate
+  193  truffle develop
+  194  truffle compile
+  195  truffle migrate
+  196  truffle develop
+  197  truffle compile
+  198  truffle migrate
+  199  truffle develop
+  200  truffle compile
+  201  truffle develop
+  202  truffle migrate
+  203  truffle develop
+  204  ps -ef
+  205  ps -ef | grep truffle
+  206  ps
+  207  truffle develop
+  208  truffle develop --
+  209  truffle develop --network customNetwork
+  210  truffle console --network customNetwork
+  211  truffle test
+  212  ganache-cli
+  213  ls -a ~
+  214  ls -a ~/.electron
+  215  npm -g ganche-cli
+  216  npm install -g ganche-cli
+  217  npm install -g ganache-cli
+  218  ganache-cli
+  219  clear
+  220  ganache-cli
+  221  clear
+  222  pwd
+  223  cd ..
+  224  pwd
+  225  mkdir old
+  226  ls
+  227  mv * old
+  228  ls
+  229  mkdir tutorial1
+  230  cd tutorial1
+  231  npm install -g create-react-app
+  232  mkdir dapp1
+  233  cd dapp1
+  234  truffle init
+  235  ls
+  236  truffle compile
+  237  truffle deploy
+  238  truffle migrate
+  239  truffle compile
+  240  truffle migrate
+  241  truffle test
+  242  truffle test
+  243  ls
+  244  cd client
+  245  ls
+  246  npm start
+  247  truffle develop
+  248  truffle compile
+  249  pwd
+  250  ls
+  251  cd ..
+  252  truffle compile
+  253  truffle migrate
+  254  truffle develop
+  255  ipconfig
+  256  ifconfig
+  257  pwd
+  258  cd 
+  259  cd desktop
+  260  lsw
+  261  ls
+  262  mkdir d2
+  263  cd d2
+  264  gti clone https://github.com/devcmgm/dappcontract.git
+  265  git clones https://github.com/devcmgm/dappcontract.git
+  266  git clone https://github.com/devcmgm/dappcontract.git
+  267  ls
+  268  cd d
+  269  cd d*
+  270  ls
+  271  ls
+  272  git add .
+  273  git add *
+  274  git commit
+  275  git push
+  276  history
+  277  history > didthis.txt
+  278  truffle compile
+  279    480  truffle deploy
+  280    481  truffle migrate
+  281    482  truffle compile
+  282    483  truffle migrate
+  283    484  truffle test
+  284    485  truffle test
+  285  truffle compile
+  286    truffle deploy
+  287    truffle migrate
+  288    truffle compile
+  289    truffle develop
+  290  history > foo
+  291  vi foo
+  292  ls
+  293  git add didthis.txt
+  294  git commit
+  295  git push
+  296  truffle compile
+  297    truffle migrate
+  298    truffle deploy
+  299  PS1=d1:
+  300  ls
+  301  cd /Volumes/bigstore/Library 
+  302  ls
+  303  pwd
+  304  cd ..
+  305  ls
+  306  pwd
+  307  mkdir nodejs
+  308  cd nodejs
+  309  ls
+  310  cd ..
+  311  pwd
+  312  ls
+  313  mkdir extra
+  314  pwd
+  315  cd extra
+  316  pwf
+  317  pwds
+  318  ls /usr/local/lib
+  319  ls /usr/local
+  320  ls /usr/local/bin2
+  321  ls /usr/local/bin
+  322  ls /usr/local/
+  323  ls /usr/local/share
+  324  ls /home
+  325  ls $home
+  326  ls $HOME
+  327  du -s $HOME/Library
+  328  sudo du -s $HOME/Library
+  329  pwd
+  330  cd desktop
+  331  ls
+  332  mkdir reactdemo
+  333  cd reactdemo
+  334  npm install -g express-generator
+  335  PS1=d1:
+  336  curl -i -H "Accept: application/json"     -H "Content-Type: application/json"     -H "x-apikey: 560bd47058e7ab1b2648f4e7"     -X GET "https://rdb-simpledb.restdb.io/rest/product"
+  337  vi foo
+  338  . ./foo
+  339  more foo
+  340  cd /Users/zacharylewis/Downloads/react-bootstrap-4-inbox-master 
+  341  npm start
+  342  npm install
+  343  cd /Users/zacharylewis/Downloads/react-bootstrap-4-inbox 
+  344  npm install
+  345  cd desktop
+  346  ls
+  347  cd r360
+  348  ls
+  349  cd c*
+  350  ls
+  351  now
+  352  PS1=d2:
+  353  pwd
+  354  cd ..
+  355  ls
+  356  npm init react-app Hello-360
+  357  npm init react-app vrdemo
+  358  pwd
+  359  lls
+  360  ls
+  361  cd vr demo
+  362  ls
+  363  npm start
+  364  ls
+  365  cd vrdemo
+  366  ls
+  367  npm start
+  368  ls
+  369  cd src
+  370  ls
+  371  vi index.js
+  372  vi App.js
+  373  npm start
+  374  npm install react-bootstrap bootstrap
+  375  Failed to load jshint library. Please install jshint in your workspace folder using 'npm install jshint' or globally using 'npm install -g jshint' and then press Retry.
+  376  npm install -g jshint
+  377  cd /Users/zacharylewis/Downloads/code-sandbox-examples-master/basic 
+  378  npm start
+  379  npm install
+  380  npm install
+  381  npm start
+  382  pwd
+  383  npm start
+  384  cd -
+  385  ls
+  386  cd -
+  387  npm start
+  388  npm install
+  389  npm start
+  390  npm i -g now
+  391  now
+  392  cd 
+  393  dir
+  394  ls
+  395  cd desktop
+  396  ls
+  397  cd r360
+  398  ls
+  399  mkdir plain
+  400  now init vanilla-functions
+  401  ls
+  402  cd vanilla-functions 
+  403  ls
+  404  vi index.html
+  405  now
+  406  vi index.html
+  407  now
+  408  npm start
+  409  now
+  410  now
+  411  now
+  412  now
+  413  ls
+  414  vi index.html
+  415  now 
+  416  pwd
+  417  ls
+  418  ls
+  419  now
+  420  now
+  421  cd ..
+  422  ls
+  423  mv vanilla-functions fbdevcmgm
+  424  mv fbdevcmgm  mgmwerxdemo
+  425  cd mgmwerkdemo
+  426  cd mgmwerkdemo
+  427  pwd
+  428  ls
+  429  cd mgmwerxdemo 
+  430  ls
+  431  now
+  432  now init
+  433  cd ..
+  434  ls
+  435  pwd
+  436  clear
+  437  now init create-react
+  438  cls
+  439  clear
+  440  /Users/zacharylewis/Desktop/tomcat9/bin/startup.sh 
+  441  cd /Users/zacharylewis/Desktop/tomcat9/webapps/Hhome 
+  442  grep viza *
+  443  PS1=d:
+  444  ls
+  445  clear
+  446  cde
+  447  cd
+  448  ls
+  449  mkdir tmp
+  450  cd tmp
+  451  pwd
+  452  git clone https://github.com/devcmgm/mgmsmartcity.git
+  453  ls
+  454  cd m*
+  455  ls
+  456  mkdir database
+  457  mkdir src
+  458  mkdir tools
+  459  mkdir dist
+  460  rmdir dist
+  461  git add *
+  462  git commit
+  463  cd src
+  464  touch README.txt
+  465  cd ,,
+  466  cd ..
+  467  ls
+  468  cd database 
+  469  touch README.txt
+  470  cd ..
+  471  cd tools
+  472  touch README.txt
+  473  cd ..
+  474  git add *
+  475  git commit
+  476  git push
+  477  git pull
+  478  ls
+  479  mkdir test
+  480  cd test
+  481  ls
+  482  ls ../tools
+  483  fortifyclient
+  484  mysql -u root -p
+  485  mysqld &
+  486  mysql -u root -p
+  487  /Users/zacharylewis/Desktop/tomcat9/bin/startup.sh 
+  488  fortifyclient -url http://localhost:8080 
+  489  fortifyclient -url http://localhost:8080 token -
+  490  fortifyclient -url http://localhost:8080 token -gettoken ddd -user admin
+  491  fortifyclient token -url http://localhost:8080/ssc -gettoken ddd -user admin
+  492  fortifyclient token -url http://localhost:8080/ssc -gettoken ddd -user admin
+  493  fortifyclient token -url http://localhost:8080/ssc -gettoken fortifyclient token -url http://localhost:8080/ssc -gettoken AnalysisUploadToken  -user sscuser -user admin
+  494  fortifyclient token -url http://localhost:8080/ssc -gettoken AnalysisUploadToken  -user sscuser
+  495  fortifyclient token -url http://localhost:8080/ssc -gettoken AnalysisUploadToken  -user admin
+  496  fortifyclient -url http://localhost:8080 token -
+  497  fortifyclient token -url http://localhost:8080/ssc -gettoken AnalysisUploadToken  -user admin
+  498  fortifyclient
+  499  fortifyclient listApplicationVersions -url http://localhost:8080/ssc -authtoken 333e2679-1681-45ad-8b09-a5811d7dd314
+  500  clear
+  501  pwd
+  502  dir
+  503  ls
+  504  cd learn
+  505  cd desktop
+  506  ls
+  507  cd lea
+  508  ls
+  509  pwd
+  510  ln -s /Volumes/bigstore/learnode 
+  511  ls
+  512  cd le*
+  513  ls
+  514  npm start
+  515  ls
+  516  pwd
+  517  ls
+  518  vi package.json
+  519  vi thirdweb.js 
+  520  ls
+  521  node thirdweb.js 
+  522  ls
+  523  cd nodedemo1
+  524  ls
+  525  vi package.json
+  526  npm start
+  527  vi package.json
+  528  npm start
+  529  now init
+  530  now init vanilla zacvr
+  531  cd zacvr
+  532  ls
+  533  npm start
+  534  pwd
+  535  ls
+  536  ls -la
+  537  vi in*
+  538  ls
+  539  now login
+  540  now
+  541  PS1=d1:
+  542  ls
+  543  cd ..
+  544  ls
+  545  pwd
+  546  cd ..
+  547  ls
+  548  git clone https://github.com/devcmgm/now-examples.git
+  549  ls
+  550  cd nodedemo1 now-examples 
+  551  ls
+  552  pwd
+  553  ls
+  554  cd zacvr
+  555  ls
+  556  npm start
+  557  now
+  558  history > didthis.txt
